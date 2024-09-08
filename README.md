@@ -17,8 +17,10 @@ Scikit-learn 🔍
 TensorFlow 🌐
 Feel free to reach out to me via:
 
+Feel free to reach out to me via:
+
 📧 9219886128@mail.ru
-📲 Telegram
+📲 Telegram @AKvantile
 Let’s connect, share ideas, and explore new opportunities in the world of data science!
 
 <!---
