@@ -25,5 +25,10 @@ I’m a **Data Scientist** passionate about leveraging Big Data to uncover valua
 | Repository Name | Description          | Language   |
 |-----------------|----------------------|------------|
 | [Kaggle competitions](https://github.com/Alexsandrrus/projekts-Kaggle)      | Here, I publish my competitions on the platform and various code.\Здесь я публикую свои соревнования на площадке, разный код | Python     |
-| Project 2       | Description of Project 2 | R          | ⭐️ 15 |
-| Project 3       | Description of Project 3 | JavaScript | ⭐️ 8  |
+| [Detect fire ](https://github.com/Alexsandrrus/Detect_fire)      | Fire and smoke detection and segmentation with YOLOv8\ Детекция и сегментация огня и дыма с YOLOv8 | Python    |
+| [Marco group task](https://github.com/Alexsandrrus/Test_task_for_Marco_grup/tree/main)       | Creating an automatic detection tool\ Cоздание инструмента автоматического определения| Python |
+| [FSCA test task ](https://github.com/Alexsandrrus/fsva-test-task)    | Automatic cropping of athlete's figure in video\ Автоматическая обрезка фигуры спортсмена в видео| Python |
+| [Yandex projects](https://github.com/Alexsandrrus/practicum_yandex_projects)    | Projects of the course "DS Specialist" Yandex practical course.\ Проекты курса "Специалист по DS" Яндекс практикум.| Python |
+| [Masterskaya]([https://github.com/Alexsandrrus/practicum_yandex_projects](https://github.com/Alexsandrrus/Masterskaya))    | Masterskaya
+Analysis of discussions of Yandex Workshop graduate communities\ Masterskaya
+Анализ обсуждений выпускных сообществ Яндекс Практикума| Python |
