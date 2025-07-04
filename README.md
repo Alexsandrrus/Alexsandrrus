@@ -30,5 +30,4 @@ I’m a **Data Scientist** passionate about leveraging Big Data to uncover valua
 | [FSCA test task ](https://github.com/Alexsandrrus/fsva-test-task)    | Automatic cropping of athlete's figure in video\ Автоматическая обрезка фигуры спортсмена в видео| Python |
 | [Yandex projects](https://github.com/Alexsandrrus/practicum_yandex_projects)    | Projects of the course "DS Specialist" Yandex practical course.\ Проекты курса "Специалист по DS" Яндекс практикум.| Python |
 | [Masterskaya](https://github.com/Alexsandrrus/Masterskaya)    | Masterskaya Analysis of discussions of Yandex Workshop graduate communities\ MasterskayaАнализ обсуждений выпускных сообществ Яндекс Практикума| Python |
-
 | [Yandex Cloud Data Recognition Lab](https://github.com/Alexsandrrus/Yandex-Cloud-Data-Recognition-Lab))    | Automated Customs Declaration Processing for EPR Compliance\ Автоматизированная обработка таможенных деклараций для соответствия требованиям РОП| Python |
